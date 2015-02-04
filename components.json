@@ -1,0 +1,122 @@
+[
+	{
+		"name": "adapt-assessment-results",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-accordion",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-blank",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-confidenceSlider",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-gmcq",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-graphic",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-hotgraphic",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-matching",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-mcq",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-media",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-narrative",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-slider",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-text",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-textInput",
+		"repo": "github.com/adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-hotgrid",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-nameInput",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-narrativestrip",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-native-media",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-peelBackHotspot",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-ppq",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-reveal",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-shallowBranchingMCQ",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-timedSequence",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-youtube",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	}
+]

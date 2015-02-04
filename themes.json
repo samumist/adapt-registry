@@ -1,0 +1,12 @@
+[
+	{
+		"name": "adapt-contrib-vanilla",
+		"repo": "github.com/cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-kineo-theme",
+		"repo": "github.com/cgkineo",
+		"branch": "master"
+	}
+]
