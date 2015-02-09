@@ -1,17 +1,17 @@
 [
 	{
 		"name": "adapt-contrib-boxMenu",
-		"repo": "github.com/adaptlearning",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-cover-menu",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-hotspot-menu",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	}
 ]

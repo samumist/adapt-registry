@@ -1,172 +1,172 @@
 [
 	{
 		"name": "adapt-article-reveal",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-assessment-learnerAssistant",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-assessment-pageLevelProgress",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-assessment-singleSubmit",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-background-switcher",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-backgroundImageReady",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-bookmarking",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-bottomnavigation",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-cheat",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-assessment",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-pageLevelProgress",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-resources",
-		"repo": "github.com/adaptlearning",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-spoor",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-trickle",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-tutor",
-		"repo": "github.com/adaptlearning",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-courseinfo",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-diffuseAssessment",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-framework-kineoFork",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-html2img",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-inspector",
-		"repo": "github.com/tomgreenfield",
+		"repo": "tomgreenfield",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-keepScrollPosition",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-menu-controller",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-pageIncompletePrompt",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-pageMenuRouter",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-printPreview",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-quicknav",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-ratioRestrict",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-rollay",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-scormDataInfo",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-search",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-stars",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-strickle",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-teleporter",
-		"repo": "github.com/tomgreenfield",
+		"repo": "tomgreenfield",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-userLevelGradingBoundaries",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	}
 ]

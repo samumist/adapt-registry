@@ -1,12 +1,12 @@
 [
 	{
 		"name": "p101",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "test",
-		"repo": "github.com/cgkineo",
+		"repo": "cgkineo",
 		"branch": "master"
 	}
 ]
