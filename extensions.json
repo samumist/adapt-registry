@@ -45,6 +45,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-close",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-contrib-assessment",
 		"repo": "cgkineo",
 		"branch": "master"
