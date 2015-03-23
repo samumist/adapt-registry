@@ -167,7 +167,7 @@
 	{
 		"name": "adapt-teleporter",
 		"repo": "tomgreenfield",
-		"branch": "master"
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-userLevelGradingBoundaries",
