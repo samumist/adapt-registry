@@ -147,7 +147,7 @@
 	{
 		"name": "adapt-scormDataInfo",
 		"repo": "cgkineo",
-		"branch": "master"
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-search",

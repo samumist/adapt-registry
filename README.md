@@ -1,3 +1,3 @@
-# adapt-gulp-registry
+# adapt-registry
 
-Registry of plugins referenced in [adapt-gulp-cli](https://github.com/cgkineo/adapt-gulp-cli).
+Registry of plugins referenced in [adapt-setup](https://github.com/cgkineo/adapt-setup).
