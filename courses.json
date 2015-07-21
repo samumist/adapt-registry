@@ -3,10 +3,5 @@
 		"name": "p101",
 		"repo": "cgkineo",
 		"branch": "master"
-	},
-	{
-		"name": "test",
-		"repo": "cgkineo",
-		"branch": "master"
 	}
 ]

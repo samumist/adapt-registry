@@ -1,23 +1,23 @@
 [
 	{
-		"name": "adapt-assessment-results",
-		"repo": "cgkineo",
-		"branch": "master"
+		"name": "adapt-contrib-accordion",
+		"repo": "adaptlearning",
+		"branch": "develop"
 	},
 	{
-		"name": "adapt-contrib-accordion",
-		"repo": "cgkineo",
+		"name": "adapt-contrib-assessmentResults",
+		"repo": "adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-assessmentResultsTotal",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-blank",
 		"repo": "adaptlearning",
 		"branch": "develop"
-	},
-	{
-		"name": "adapt-contrib-confidenceSlider",
-		"repo": "cgkineo",
-		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-gmcq",
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "adapt-contrib-hotgraphic",
-		"repo": "cgkineo",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
@@ -41,12 +41,12 @@
 	},
 	{
 		"name": "adapt-contrib-mcq",
-		"repo": "cgkineo",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-media",
-		"repo": "cgkineo",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
@@ -56,7 +56,7 @@
 	},
 	{
 		"name": "adapt-contrib-slider",
-		"repo": "cgkineo",
+		"repo": "adaptlearning",
 		"branch": "develop"
 	},
 	{
@@ -68,55 +68,5 @@
 		"name": "adapt-contrib-textInput",
 		"repo": "adaptlearning",
 		"branch": "develop"
-	},
-	{
-		"name": "adapt-hotgrid",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-nameInput",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-narrativestrip",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-native-media",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-peelBackHotspot",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-ppq",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-reveal",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-shallowBranchingMCQ",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-timedSequence",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-youtube",
-		"repo": "cgkineo",
-		"branch": "master"
 	}
 ]

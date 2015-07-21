@@ -1,63 +1,18 @@
 [
 	{
-		"name": "adapt-article-reveal",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-assessment-learnerAssistant",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-assessment-pageLevelProgress",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-assessment-singleSubmit",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-background-switcher",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-backgroundImageReady",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-bookmarking",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-bottomnavigation",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-cheat",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-close",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-assessment",
-		"repo": "cgkineo",
-		"branch": "master"
+		"repo": "adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-bookmarking",
+		"repo": "adaptlearning",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-pageLevelProgress",
-		"repo": "cgkineo",
-		"branch": "master"
+		"repo": "adaptlearning",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-resources",
@@ -66,13 +21,13 @@
 	},
 	{
 		"name": "adapt-contrib-spoor",
-		"repo": "cgkineo",
-		"branch": "master"
+		"repo": "adaptlearning",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-trickle",
-		"repo": "cgkineo",
-		"branch": "master"
+		"repo": "adaptlearning",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-contrib-tutor",
@@ -80,98 +35,8 @@
 		"branch": "develop"
 	},
 	{
-		"name": "adapt-courseinfo",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-diffuseAssessment",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-framework-kineoFork",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-html2img",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-inspector",
 		"repo": "tomgreenfield",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-keepScrollPosition",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-menu-controller",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-pageIncompletePrompt",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-pageMenuRouter",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-printPreview",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-quicknav",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-ratioRestrict",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-rollay",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-scormDataInfo",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-search",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-stars",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-strickle",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-teleporter",
-		"repo": "tomgreenfield",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-userLevelGradingBoundaries",
-		"repo": "cgkineo",
 		"branch": "master"
 	}
 ]

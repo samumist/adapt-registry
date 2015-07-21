@@ -1,12 +1,7 @@
 [
 	{
 		"name": "adapt-contrib-vanilla",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-kineo-theme",
-		"repo": "cgkineo",
-		"branch": "master"
+		"repo": "adaptlearning",
+		"branch": "ABU-650"
 	}
 ]

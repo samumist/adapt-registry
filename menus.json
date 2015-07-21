@@ -3,15 +3,5 @@
 		"name": "adapt-contrib-boxMenu",
 		"repo": "adaptlearning",
 		"branch": "develop"
-	},
-	{
-		"name": "adapt-cover-menu",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-hotspot-menu",
-		"repo": "cgkineo",
-		"branch": "master"
 	}
 ]
