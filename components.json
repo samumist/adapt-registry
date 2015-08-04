@@ -2,12 +2,12 @@
 	{
 		"name": "adapt-contrib-accordion",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-assessmentResults",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-assessmentResultsTotal",
@@ -17,56 +17,61 @@
 	{
 		"name": "adapt-contrib-blank",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-gmcq",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-graphic",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-hotgraphic",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-matching",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-mcq",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-media",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-narrative",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-slider",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-text",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-textInput",
 		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-hotgrid",
+		"repo": "cgkineo",
 		"branch": "develop"
 	}
 ]

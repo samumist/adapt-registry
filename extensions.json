@@ -2,37 +2,37 @@
 	{
 		"name": "adapt-contrib-assessment",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-bookmarking",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-pageLevelProgress",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-resources",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-spoor",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-trickle",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-tutor",
 		"repo": "adaptlearning",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-inspector",
