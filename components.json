@@ -73,5 +73,20 @@
 		"name": "adapt-hotgrid",
 		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-narrativeStrip",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-questionStrip",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-tabs",
+		"repo": "cgkineo",
+		"branch": "master"
 	}
 ]

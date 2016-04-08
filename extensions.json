@@ -1,5 +1,15 @@
 [
 	{
+		"name": "adapt-article-reveal",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-close",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-contrib-assessment",
 		"repo": "adaptlearning",
 		"branch": "master"
@@ -35,8 +45,28 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-devtools",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-inspector",
 		"repo": "tomgreenfield",
-		"branch": "develop"
+		"branch": "master"
+	},
+	{
+		"name": "adapt-pageIncompletePrompt",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-quicknav",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-search",
+		"repo": "cgkineo",
+		"branch": "master"
 	}
 ]
