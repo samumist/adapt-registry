@@ -3,5 +3,10 @@
 		"name": "p101",
 		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "c101",
+		"repo": "samumist",
+		"branch": "master"
 	}
 ]
