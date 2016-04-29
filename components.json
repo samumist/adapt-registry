@@ -88,5 +88,50 @@
 		"name": "adapt-tabs",
 		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-reveal",
+		"repo": "LearningPool",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-openTextInput",
+		"repo": "LearningPool",
+		"branch": "re-work"
+	},
+	{
+		"name": "adapt-contrib-responsiveIframe",
+		"repo": "LearningPool",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-flipcard",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-clickAndLearn",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-objectMatching",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-hotSpot",
+		"repo": "BATraining",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-dragAndDrop",
+		"repo": "BATraining",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-textPlus",
+		"repo": "chucklorenz",
+		"branch": "master"
 	}
 ]

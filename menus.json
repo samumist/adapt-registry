@@ -8,5 +8,10 @@
 		"name": "adapt-hotspot-menu",
 		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-cover-menu",
+		"repo": "cgkineo",
+		"branch": "v2"
 	}
 ]

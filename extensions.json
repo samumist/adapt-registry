@@ -68,5 +68,30 @@
 		"name": "adapt-search",
 		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-hint",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-hide",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-aboutUs",
+		"repo": "chucklorenz",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-glossary",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-triggered",
+		"repo": "adaptlearning",
+		"branch": "master"
 	}
 ]
