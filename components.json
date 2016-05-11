@@ -97,7 +97,7 @@
 	{
 		"name": "adapt-contrib-openTextInput",
 		"repo": "LearningPool",
-		"branch": "re-work"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-responsiveIframe",
