@@ -3,5 +3,10 @@
 		"name": "adapt-contrib-vanilla",
 		"repo": "adaptlearning",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-kineo-theme",
+		"repo": "cgkineo",
+		"branch": "v2"
 	}
 ]
