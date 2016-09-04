@@ -80,11 +80,6 @@
 		"branch": "develop"
 	},
 	{
-		"name": "adapt-aboutUs",
-		"repo": "chucklorenz",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-glossary",
 		"repo": "adaptlearning",
 		"branch": "master"
@@ -98,5 +93,10 @@
 		"name": "adapt-enhanced-question",
 		"repo": "deltanet",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-aboutUs",
+		"repo": "samumist",
+		"branch": "develop"
 	}
 ]

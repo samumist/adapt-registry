@@ -133,5 +133,10 @@
 		"name": "adapt-textPlus",
 		"repo": "chucklorenz",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-chartjs",
+		"repo": "samumist",
+		"branch": "develop"
 	}
 ]
