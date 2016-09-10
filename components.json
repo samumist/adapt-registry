@@ -1,137 +1,97 @@
 [
 	{
-		"name": "adapt-contrib-accordion",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-accordion-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-assessmentResults",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-assessmentResults-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-assessmentResultsTotal",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-assessmentResultsTotal-audio",
+		"repo": "deltanet",
 		"branch": "develop"
 	},
 	{
-		"name": "adapt-contrib-blank",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-gmcq-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-gmcq",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-graphic-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-graphic",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-hotgraphic-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-hotgraphic",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-matching-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-matching",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-mcq-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-mcq",
-		"repo": "adaptlearning",
+		"name": "adapt-media-autoplay",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-media",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-narrative-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-narrative",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-text-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-slider",
-		"repo": "adaptlearning",
+		"name": "adapt-contrib-textInput-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-text",
-		"repo": "adaptlearning",
+		"name": "adapt-hotgrid-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-textInput",
-		"repo": "adaptlearning",
+		"name": "adapt-tabs-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-hotgrid",
-		"repo": "cgkineo",
+		"name": "adapt-scenario-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-narrativeStrip",
-		"repo": "cgkineo",
+		"name": "adapt-flipcard-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-questionStrip",
-		"repo": "cgkineo",
+		"name": "adapt-textEntry-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-tabs",
-		"repo": "cgkineo",
+		"name": "adapt-character-text",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-reveal",
-		"repo": "LearningPool",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-openTextInput",
-		"repo": "LearningPool",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-responsiveIframe",
-		"repo": "LearningPool",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-flipcard",
-		"repo": "ExultCorp",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-clickAndLearn",
-		"repo": "ExultCorp",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-objectMatching",
-		"repo": "ExultCorp",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-hotSpot",
-		"repo": "BATraining",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-dragAndDrop",
-		"repo": "BATraining",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-textPlus",
-		"repo": "chucklorenz",
+		"name": "adapt-ppq-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{

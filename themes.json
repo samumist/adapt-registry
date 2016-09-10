@@ -1,17 +1,7 @@
 [
 	{
-		"name": "adapt-contrib-vanilla",
-		"repo": "adaptlearning",
+		"name": "adapt-theme-delta",
+		"repo": "deltanet",
 		"branch": "master"
-	},
-	{
-		"name": "adapt-kineo-theme",
-		"repo": "cgkineo",
-		"branch": "v2"
-	},
-	{
-		"name": "adapt-theme-community",
-		"repo": "samumist",
-		"branch": "develop"
 	}
 ]

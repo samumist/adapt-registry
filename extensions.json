@@ -1,15 +1,5 @@
 [
 	{
-		"name": "adapt-article-reveal",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-close",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-assessment",
 		"repo": "adaptlearning",
 		"branch": "master"
@@ -45,6 +35,81 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-contrib-glossary",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-audio",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-home",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-toolbox",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-nav-link",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-icon-popup",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-certificate",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-animate",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-rewards",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-articleBlockSlider",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-background-switcher",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-article-reveal",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-block-reveal",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-search",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-enhanced-question",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-devtools",
 		"repo": "cgkineo",
 		"branch": "master"
@@ -65,11 +130,6 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-search",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-hint",
 		"repo": "cgkineo",
 		"branch": "master"
@@ -80,18 +140,8 @@
 		"branch": "develop"
 	},
 	{
-		"name": "adapt-contrib-glossary",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-triggered",
 		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-enhanced-question",
-		"repo": "deltanet",
 		"branch": "master"
 	},
 	{

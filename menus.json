@@ -1,17 +1,17 @@
 [
 	{
 		"name": "adapt-contrib-boxmenu",
-		"repo": "adaptlearning",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-hotspot-menu",
-		"repo": "cgkineo",
+		"name": "adapt-hotspot-menu-audio",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-cover-menu",
-		"repo": "cgkineo",
-		"branch": "v2"
+		"name": "adapt-cover-menu-audio",
+		"repo": "deltanet",
+		"branch": "master"
 	}
 ]
