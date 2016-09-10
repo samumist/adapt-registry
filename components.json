@@ -12,7 +12,7 @@
 	{
 		"name": "adapt-contrib-assessmentResultsTotal-audio",
 		"repo": "deltanet",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-gmcq-audio",
