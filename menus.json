@@ -1,8 +1,8 @@
 [
 	{
 		"name": "adapt-contrib-boxmenu",
-		"repo": "adaptlearning",
-		"branch": "master"
+		"repo": "samumist",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-hotspot-menu",
