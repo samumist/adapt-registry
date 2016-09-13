@@ -45,11 +45,6 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-home",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-toolbox",
 		"repo": "deltanet",
 		"branch": "master"
