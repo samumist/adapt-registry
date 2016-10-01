@@ -93,10 +93,5 @@
 		"name": "adapt-ppq-audio",
 		"repo": "deltanet",
 		"branch": "master"
-	},
-	{
-		"name": "adapt-chartjs",
-		"repo": "samumist",
-		"branch": "develop"
 	}
 ]
