@@ -1,21 +1,16 @@
 [
 	{
-		"name": "adapt-article-reveal",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-close",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-assessment",
 		"repo": "adaptlearning",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-contrib-bookmarking",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-glossary",
 		"repo": "adaptlearning",
 		"branch": "master"
 	},
@@ -45,13 +40,28 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-devtools",
-		"repo": "cgkineo",
+		"name": "adapt-contrib-triggered",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-languagePicker",
+		"repo": "adaptlearning",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-inspector",
 		"repo": "tomgreenfield",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-devtools",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-articleBlockSlider",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
@@ -80,13 +90,13 @@
 		"branch": "develop"
 	},
 	{
-		"name": "adapt-contrib-glossary",
-		"repo": "adaptlearning",
+		"name": "adapt-article-reveal",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-triggered",
-		"repo": "adaptlearning",
+		"name": "adapt-close",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{

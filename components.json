@@ -25,6 +25,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-contrib-pointGmcq",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-contrib-graphic",
 		"repo": "adaptlearning",
 		"branch": "master"
@@ -68,6 +73,16 @@
 		"name": "adapt-contrib-textInput",
 		"repo": "adaptlearning",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-confidenceSlider",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-linkedConfidenceSlider",
+		"repo": "cgkineo",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-hotgrid",
