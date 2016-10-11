@@ -50,18 +50,13 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-inspector",
-		"repo": "tomgreenfield",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-devtools",
 		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-articleBlockSlider",
-		"repo": "cgkineo",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
@@ -91,12 +86,12 @@
 	},
 	{
 		"name": "adapt-article-reveal",
-		"repo": "cgkineo",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-close",
-		"repo": "cgkineo",
+		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
@@ -108,5 +103,20 @@
 		"name": "adapt-aboutUs",
 		"repo": "samumist",
 		"branch": "develop"
+	},
+	{
+		"name": "adapt-background-switcher",
+		"repo": "samumist",
+		"branch": "performance"
+	},
+	{
+		"name": "adapt-inspector",
+		"repo": "tomgreenfield",
+		"branch": "master"
+	},
+	{
+		"name": "parallex-background-switcher",
+		"repo": "mike-st",
+		"branch": "master"
 	}
 ]
