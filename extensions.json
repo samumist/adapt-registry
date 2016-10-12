@@ -85,6 +85,31 @@
 		"branch": "develop"
 	},
 	{
+		"name": "adapt-tutor",
+		"repo": "cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-navigation",
+		"repo": "cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-component-animate",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-assLearning",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-search",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-article-reveal",
 		"repo": "deltanet",
 		"branch": "master"
@@ -96,6 +121,16 @@
 	},
 	{
 		"name": "adapt-enhanced-question",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-home",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-nav-link",
 		"repo": "deltanet",
 		"branch": "master"
 	},
