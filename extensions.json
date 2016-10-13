@@ -135,6 +135,26 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-icon-popup",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-toolbox",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-animate",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-block-reveal",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-aboutUs",
 		"repo": "samumist",
 		"branch": "develop"
