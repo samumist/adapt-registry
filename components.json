@@ -153,5 +153,40 @@
 		"name": "adapt-chartjs",
 		"repo": "samumist",
 		"branch": "develop"
+	},
+	{
+		"name": "adapt-html",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-backgroundScroll",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-flipper",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-blinds",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-reveal",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-draganddrop",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-stacklist",
+		"repo": "danielstorey",
+		"branch": "master"
 	}
 ]
