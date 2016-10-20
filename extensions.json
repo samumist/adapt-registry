@@ -164,6 +164,11 @@
 		"repo": "deltanet",
 		"branch": "master"
 	},
+	{
+		"name": "adapt-achievements",
+		"repo": "deltanet",
+		"branch": "master"
+	},
     {
         "name": "adapt-splitscreen",
         "repo": "LearnChamp",
