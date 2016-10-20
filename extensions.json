@@ -10,6 +10,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-home",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-nav-link",
 		"repo": "deltanet",
 		"branch": "master"
@@ -30,6 +35,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-achievements",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-rewards",
 		"repo": "deltanet",
 		"branch": "master"
@@ -40,22 +50,12 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-background-switcher",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-article-reveal",
 		"repo": "deltanet",
 		"branch": "master"
 	},
 	{
 		"name": "adapt-block-reveal",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-search",
 		"repo": "deltanet",
 		"branch": "master"
 	},
