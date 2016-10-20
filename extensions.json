@@ -155,6 +155,46 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-rewards",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-certificate",
+		"repo": "deltanet",
+		"branch": "master"
+	},
+    {
+        "name": "adapt-splitscreen",
+        "repo": "LearnChamp",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-minimap",
+        "repo": "LearnChamp",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-hideNavigation",
+        "repo": "JenisonLtd",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-contrib-drawerPageNavigation",
+        "repo": "theodi",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-intro",
+        "repo": "KingsOnline",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-google-analytics",
+        "repo": "KingsOnline",
+        "branch": "master"
+    },
+	{
 		"name": "adapt-aboutUs",
 		"repo": "samumist",
 		"branch": "develop"
@@ -163,6 +203,11 @@
 		"name": "adapt-background-switcher",
 		"repo": "samumist",
 		"branch": "performance"
+	},
+	{
+		"name": "adapt-block-background",
+		"repo": "davegosling",
+		"branch": "master"
 	},
 	{
 		"name": "adapt-inspector",
