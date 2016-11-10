@@ -1,6 +1,11 @@
 [
 	{
-		"name": "adapt-contrib-boxmenu",
+		"name": "adapt-elfboxmenu",
+		"repo": "samumist",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-carousel-menu",
 		"repo": "samumist",
 		"branch": "develop"
 	},

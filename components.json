@@ -75,17 +75,27 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-confidenceSlider",
+		"name": "adapt-hotgrid",
 		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-contrib-linkedConfidenceSlider",
+		"name": "adapt-timedSequence",
 		"repo": "cgkineo",
-		"branch": "develop"
+		"branch": "master"
 	},
 	{
-		"name": "adapt-hotgrid",
+		"name": "adapt-ppq",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-peelBackHotspot",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-native-media",
 		"repo": "cgkineo",
 		"branch": "master"
 	},
@@ -104,6 +114,11 @@
 		"repo": "cgkineo",
 		"branch": "master"
 	},
+    {
+        "name": "adapt-contrib-confidenceSlider",
+        "repo": "chris-steele",
+        "branch": "master"
+    },
 	{
 		"name": "adapt-contrib-reveal",
 		"repo": "LearningPool",
