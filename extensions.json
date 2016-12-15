@@ -15,6 +15,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-contrib-languagePicker",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-contrib-pageLevelProgress",
 		"repo": "adaptlearning",
 		"branch": "master"
@@ -44,9 +49,24 @@
 		"repo": "adaptlearning",
 		"branch": "master"
 	},
+    {
+        "name": "adapt-articleBlockSlider",
+        "repo": "cgkineo",
+        "branch": "master"
+    },
+    {
+        "name": "adapt-article-reveal",
+        "repo": "cgkineo",
+        "branch": "master"
+    },
 	{
-		"name": "adapt-contrib-languagePicker",
-		"repo": "adaptlearning",
+		"name": "adapt-assLearning",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-component-animate",
+		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
@@ -55,9 +75,24 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-articleBlockSlider",
-		"repo": "deltanet",
+		"name": "adapt-hide",
+		"repo": "cgkineo",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-hint",
+		"repo": "cgkineo",
 		"branch": "master"
+	},
+	{
+		"name": "adapt-keepScrollPosition",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-navigation",
+		"repo": "cgkineo",
+		"branch": "develop"
 	},
 	{
 		"name": "adapt-pageIncompletePrompt",
@@ -70,45 +105,25 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-keepScrollPosition",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-search",
 		"repo": "cgkineo",
 		"branch": "master"
 	},
 	{
-		"name": "adapt-hint",
+		"name": "adapt-singleSubmit",
 		"repo": "cgkineo",
 		"branch": "master"
-	},
-	{
-		"name": "adapt-hide",
-		"repo": "cgkineo",
-		"branch": "develop"
 	},
 	{
 		"name": "adapt-tutor",
 		"repo": "cgkineo",
 		"branch": "develop"
 	},
-	{
-		"name": "adapt-navigation",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-component-animate",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-assLearning",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
+    {
+        "name": "adapt-articleBlockSlider",
+        "repo": "deltanet",
+        "branch": "master"
+    },
 	{
 		"name": "adapt-search",
 		"repo": "deltanet",
