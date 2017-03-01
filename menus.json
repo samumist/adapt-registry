@@ -5,6 +5,11 @@
 		"branch": "master"
 	},
 	{
+		"name": "adapt-contrib-boxmenu",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
 		"name": "adapt-carousel-menu",
 		"repo": "samumist",
 		"branch": "develop"
@@ -17,7 +22,7 @@
 	{
 		"name": "adapt-cover-menu",
 		"repo": "cgkineo",
-		"branch": "v2"
+		"branch": "master"
 	},
 	{
 		"name": "adapt-dragMenu",
