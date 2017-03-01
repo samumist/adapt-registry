@@ -8,10 +8,5 @@
 		"name": "adapt-kineo-theme",
 		"repo": "cgkineo",
 		"branch": "v2"
-	},
-	{
-		"name": "adapt-theme-community",
-		"repo": "samumist",
-		"branch": "develop"
 	}
 ]

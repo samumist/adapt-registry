@@ -18,5 +18,10 @@
 		"name": "adapt-cover-menu",
 		"repo": "cgkineo",
 		"branch": "v2"
+	},
+	{
+		"name": "adapt-dragMenu",
+		"repo": "cgkineo",
+		"branch": "master"
 	}
 ]

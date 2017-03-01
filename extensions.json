@@ -1,247 +1,247 @@
 [
-	{
-		"name": "adapt-contrib-assessment",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-bookmarking",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-glossary",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-languagePicker",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-pageLevelProgress",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-resources",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-    {
-        "name": "adapt-contrib-spoor",
-        "repo": "adaptlearning",
-        "branch": "master"
+  {
+    "name": "adapt-contrib-assessment",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-bookmarking",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-glossary",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-languagePicker",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-pageLevelProgress",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-resources",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-spoor",
+    "repo": "adaptlearning",
+    "branch": "master"
     },
-	{
-		"name": "adapt-contrib-trickle",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-tutor",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-contrib-triggered",
-		"repo": "adaptlearning",
-		"branch": "master"
-	},
-    {
-        "name": "adapt-articleBlockSlider",
-        "repo": "cgkineo",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-article-reveal",
-        "repo": "cgkineo",
-        "branch": "master"
-    },
-	{
-		"name": "adapt-assLearning",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-component-animate",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-devtools",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-hide",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-hint",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-keepScrollPosition",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-navigation",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-pageIncompletePrompt",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-quicknav",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-search",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-submitAll",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-tutor",
-		"repo": "cgkineo",
-		"branch": "develop"
-	},
-    {
-        "name": "adapt-articleBlockSlider",
-        "repo": "deltanet",
-        "branch": "master"
-    },
-	{
-		"name": "adapt-article-reveal",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-close",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-enhanced-question",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-home",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-nav-link",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-icon-popup",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-    {
-        "name": "adapt-search",
-        "repo": "deltanet",
-        "branch": "master"
-    },
-	{
-		"name": "adapt-toolbox",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-animate",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-block-reveal",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-rewards",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-certificate",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-achievements",
-		"repo": "deltanet",
-		"branch": "master"
-	},
-    {
-        "name": "adapt-splitscreen",
-        "repo": "LearnChamp",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-minimap",
-        "repo": "LearnChamp",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-hideNavigation",
-        "repo": "JenisonLtd",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-contrib-drawerPageNavigation",
-        "repo": "theodi",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-intro",
-        "repo": "KingsOnline",
-        "branch": "master"
-    },
-    {
-        "name": "adapt-google-analytics",
-        "repo": "KingsOnline",
-        "branch": "master"
-    },
-	{
-		"name": "adapt-aboutUs",
-		"repo": "samumist",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-background-switcher",
-		"repo": "samumist",
-		"branch": "performance"
-	},
-	{
-		"name": "adapt-block-background",
-		"repo": "davegosling",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-inspector",
-		"repo": "tomgreenfield",
-		"branch": "master"
-	},
-	{
-		"name": "parallax-background-switcher",
-		"repo": "mike-st",
-		"branch": "master"
-	}
+  {
+    "name": "adapt-contrib-trickle",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-tutor",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-triggered",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-articleBlockSlider",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-article-reveal",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-assLearning",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-component-animate",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-devtools",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-hide",
+    "repo": "cgkineo",
+    "branch": "develop"
+  },
+  {
+    "name": "adapt-hint",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-keepScrollPosition",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-navigation",
+    "repo": "cgkineo",
+    "branch": "develop"
+  },
+  {
+    "name": "adapt-pageIncompletePrompt",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-quicknav",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-search",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-submitAll",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-tutor",
+    "repo": "cgkineo",
+    "branch": "develop"
+  },
+  {
+    "name": "adapt-articleBlockSlider",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-article-reveal",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-close",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-enhanced-question",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-home",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-nav-link",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-icon-popup",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-search",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-toolbox",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-animate",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-block-reveal",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-rewards",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-certificate",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-achievements",
+    "repo": "deltanet",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-splitscreen",
+    "repo": "LearnChamp",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-minimap",
+    "repo": "LearnChamp",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-hideNavigation",
+    "repo": "JenisonLtd",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-drawerPageNavigation",
+    "repo": "theodi",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-intro",
+    "repo": "KingsOnline",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-google-analytics",
+    "repo": "KingsOnline",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-aboutUs",
+    "repo": "samumist",
+    "branch": "develop"
+  },
+  {
+    "name": "adapt-background-switcher",
+    "repo": "samumist",
+    "branch": "performance"
+  },
+  {
+    "name": "adapt-block-background",
+    "repo": "davegosling",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-inspector",
+    "repo": "tomgreenfield",
+    "branch": "master"
+  },
+  {
+    "name": "parallax-background-switcher",
+    "repo": "mike-st",
+    "branch": "master"
+  }
 ]
