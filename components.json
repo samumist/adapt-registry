@@ -1,207 +1,206 @@
-[
-  {
-    "name": "adapt-contrib-accordion",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-assessmentResults",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-assessmentResultsTotal",
-    "repo": "adaptlearning",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-contrib-blank",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-gmcq",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-pointGmcq",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-graphic",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-hotgraphic",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-matching",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-mcq",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-media",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-narrative",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-slider",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-text",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-textInput",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-hotgrid",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-timedSequence",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-ppq",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-peelBackHotspot",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-native-media",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-narrativeStrip",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-questionStrip",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-tabs",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-    {
-        "name": "adapt-contrib-confidenceSlider",
-        "repo": "chris-steele",
-        "branch": "master"
-    },
-  {
-    "name": "adapt-contrib-reveal",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-openTextInput",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-responsiveIframe",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-flipcard",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-clickAndLearn",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-objectMatching",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-hotSpot",
-    "repo": "BATraining",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-dragAndDrop",
-    "repo": "BATraining",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-textPlus",
-    "repo": "chucklorenz",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-chartjs",
-    "repo": "samumist",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-html",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-backgroundScroll",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-flipper",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-blinds",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-expose",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-draganddrop",
-    "repo": "danielstorey",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-stacklist",
-    "repo": "danielstorey",
-    "branch": "master"
-  }
+[{
+		"name": "adapt-contrib-accordion",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-assessmentResults",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-assessmentResultsTotal",
+		"repo": "adaptlearning",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-contrib-blank",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-gmcq",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-pointGmcq",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-graphic",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-hotgraphic",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-matching",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-mcq",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-media",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-narrative",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-slider",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-confidenceSlider",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-text",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-textInput",
+		"repo": "adaptlearning",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-hotgrid",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-timedSequence",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-ppq",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-peelBackHotspot",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-native-media",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-narrativeStrip",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-questionStrip",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-tabs",
+		"repo": "cgkineo",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-reveal",
+		"repo": "LearningPool",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-openTextInput",
+		"repo": "LearningPool",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-responsiveIframe",
+		"repo": "LearningPool",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-flipcard",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-clickAndLearn",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-contrib-objectMatching",
+		"repo": "ExultCorp",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-hotSpot",
+		"repo": "BATraining",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-dragAndDrop",
+		"repo": "BATraining",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-textPlus",
+		"repo": "chucklorenz",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-chartjs",
+		"repo": "samumist",
+		"branch": "develop"
+	},
+	{
+		"name": "adapt-html",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-backgroundScroll",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-flipper",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-blinds",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-expose",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-draganddrop",
+		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-stacklist",
+		"repo": "danielstorey",
+		"branch": "master"
+	}
 ]
