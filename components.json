@@ -89,11 +89,6 @@
 		"branch": "master"
 	},
 	{
-		"name": "adapt-ppq",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-peelBackHotspot",
 		"repo": "cgkineo",
 		"branch": "master"
@@ -201,6 +196,11 @@
 	{
 		"name": "adapt-stacklist",
 		"repo": "danielstorey",
+		"branch": "master"
+	},
+	{
+		"name": "adapt-ppq",
+		"repo": "chris-steele",
 		"branch": "master"
 	}
 ]
