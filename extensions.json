@@ -205,11 +205,6 @@
     "branch": "master"
   },
   {
-    "name": "adapt-contrib-drawerPageNavigation",
-    "repo": "theodi",
-    "branch": "master"
-  },
-  {
     "name": "adapt-intro",
     "repo": "KingsOnline",
     "branch": "master"
@@ -247,6 +242,11 @@
   {
     "name": "adapt-nudge",
     "repo": "chris-steele",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-drawerPageNavigation",
+    "repo": "liquidmelon",
     "branch": "master"
   }
 ]
