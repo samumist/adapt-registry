@@ -204,13 +204,13 @@
     "branch": "master"
   },
   {
-    "name": "adapt-pageJumper",
+    "name": "adapt-component-pageJumper",
     "repo": "liquidmelon",
     "branch": "master"
   },
   {
-    "name": "adapt-tidbits",
+    "name": "adapt-component-tidbits",
     "repo": "liquidmelon",
     "branch": "master"
-  }
+  },
 ]
