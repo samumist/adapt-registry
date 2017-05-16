@@ -248,5 +248,10 @@
     "name": "adapt-contrib-drawerPageNavigation",
     "repo": "theodi",
     "branch": "master"
+  },
+  {
+    "name": "adapt-simple-branching",
+    "repo": "commelius",
+    "branch": "master"
   }
 ]
