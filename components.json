@@ -202,15 +202,5 @@
     "name": "adapt-ppq",
     "repo": "chris-steele",
     "branch": "master"
-  },
-  {
-    "name": "adapt-component-pageJumper",
-    "repo": "liquidmelon",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-component-tidbits",
-    "repo": "liquidmelon",
-    "branch": "master"
   }
 ]
