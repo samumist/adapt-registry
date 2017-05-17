@@ -253,5 +253,10 @@
     "name": "adapt-simple-branching",
     "repo": "commelius",
     "branch": "master"
+  },
+  {
+    "name": "adapt-assessmentCertificate",
+    "repo": "marcnewport",
+    "branch": "master"
   }
 ]
