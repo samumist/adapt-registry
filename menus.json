@@ -1,32 +1,7 @@
 [
 	{
-		"name": "adapt-elfboxmenu",
-		"repo": "samumist",
-		"branch": "master"
-	},
-	{
 		"name": "adapt-contrib-boxmenu",
 		"repo": "adaptlearning",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-carousel-menu",
-		"repo": "samumist",
-		"branch": "develop"
-	},
-	{
-		"name": "adapt-hotspot-menu",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-cover-menu",
-		"repo": "cgkineo",
-		"branch": "master"
-	},
-	{
-		"name": "adapt-dragMenu",
-		"repo": "cgkineo",
 		"branch": "master"
 	}
 ]

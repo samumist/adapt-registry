@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "adapt-contrib-accordion",
     "repo": "adaptlearning",
     "branch": "master"
@@ -20,11 +21,6 @@
   },
   {
     "name": "adapt-contrib-gmcq",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-pointGmcq",
     "repo": "adaptlearning",
     "branch": "master"
   },
@@ -64,17 +60,17 @@
     "branch": "master"
   },
   {
-    "name": "adapt-contrib-confidenceSlider",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
     "name": "adapt-contrib-text",
     "repo": "adaptlearning",
     "branch": "master"
   },
   {
     "name": "adapt-contrib-textInput",
+    "repo": "adaptlearning",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-contrib-confidenceSlider",
     "repo": "adaptlearning",
     "branch": "master"
   },
@@ -114,58 +110,8 @@
     "branch": "master"
   },
   {
-    "name": "adapt-contrib-reveal",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-openTextInput",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-responsiveIframe",
-    "repo": "LearningPool",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-flipcard",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-clickAndLearn",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-objectMatching",
-    "repo": "ExultCorp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-hotSpot",
-    "repo": "BATraining",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-dragAndDrop",
-    "repo": "BATraining",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-textPlus",
-    "repo": "chucklorenz",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-chartjs",
-    "repo": "samumist",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-html",
-    "repo": "samumist",
+    "name": "adapt-ppq",
+    "repo": "chris-steele",
     "branch": "master"
   },
   {
@@ -199,8 +145,18 @@
     "branch": "master"
   },
   {
-    "name": "adapt-ppq",
-    "repo": "chris-steele",
+    "name": "adapt-contrib-reveal",
+    "repo": "LearningPool",
     "branch": "master"
+  },
+  {
+    "name": "adapt-html",
+    "repo": "samumist",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-chartjs",
+    "repo": "samumist",
+    "branch": "en_version"
   }
 ]

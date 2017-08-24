@@ -33,7 +33,7 @@
     "name": "adapt-contrib-spoor",
     "repo": "adaptlearning",
     "branch": "master"
-    },
+  },
   {
     "name": "adapt-contrib-trickle",
     "repo": "adaptlearning",
@@ -41,11 +41,6 @@
   },
   {
     "name": "adapt-contrib-tutor",
-    "repo": "adaptlearning",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-contrib-triggered",
     "repo": "adaptlearning",
     "branch": "master"
   },
@@ -75,6 +70,26 @@
     "branch": "master"
   },
   {
+    "name": "adapt-inspector",
+    "repo": "tomgreenfield",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-quicknav",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-keepScrollPosition",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
+    "name": "adapt-pageIncompletePrompt",
+    "repo": "cgkineo",
+    "branch": "master"
+  },
+  {
     "name": "adapt-hide",
     "repo": "cgkineo",
     "branch": "develop"
@@ -85,24 +100,9 @@
     "branch": "master"
   },
   {
-    "name": "adapt-keepScrollPosition",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
     "name": "adapt-navigation",
     "repo": "cgkineo",
     "branch": "develop"
-  },
-  {
-    "name": "adapt-pageIncompletePrompt",
-    "repo": "cgkineo",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-quicknav",
-    "repo": "cgkineo",
-    "branch": "master"
   },
   {
     "name": "adapt-search",
@@ -190,48 +190,8 @@
     "branch": "master"
   },
   {
-    "name": "adapt-splitscreen",
-    "repo": "LearnChamp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-minimap",
-    "repo": "LearnChamp",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-hideNavigation",
-    "repo": "JenisonLtd",
-    "branch": "master"
-  },
-  {
     "name": "adapt-intro",
     "repo": "KingsOnline",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-google-analytics",
-    "repo": "KingsOnline",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-aboutUs",
-    "repo": "samumist",
-    "branch": "develop"
-  },
-  {
-    "name": "adapt-background-switcher",
-    "repo": "samumist",
-    "branch": "performance"
-  },
-  {
-    "name": "adapt-block-background",
-    "repo": "davegosling",
-    "branch": "master"
-  },
-  {
-    "name": "adapt-inspector",
-    "repo": "tomgreenfield",
     "branch": "master"
   },
   {
@@ -245,18 +205,18 @@
     "branch": "master"
   },
   {
-    "name": "adapt-contrib-drawerPageNavigation",
-    "repo": "theodi",
-    "branch": "master"
-  },
-  {
     "name": "adapt-simple-branching",
     "repo": "commelius",
     "branch": "master"
   },
   {
+    "name": "adapt-aboutUs",
+    "repo": "samumist",
+    "branch": "develop"
+  },
+  {
     "name": "adapt-assessmentCertificate",
-    "repo": "marcnewport",
+    "repo": "samumist",
     "branch": "master"
   }
 ]
